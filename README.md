@@ -13,5 +13,5 @@ Both library are design to help Data Scientist to shorten time in exploring data
 Bamboolib is an extendable GUI that exports Python code and make data exploration, data cleaning easier
 ![Alt text](https://github.com/jingxianho/Datium/blob/main/Bamboolib%20Gif.gif?raw=true "Optional title")
 
-While Pycaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment.
+While Pycaret is an open source, low-code machine learning library in Python that allows Data Scientist to go from preparing data to deploying model within minutes in your choice of notebook environment.
 ![Alt text](https://github.com/jingxianho/Datium/blob/main/Pycaret%20Sample.PNG?raw=true "Optional title")
